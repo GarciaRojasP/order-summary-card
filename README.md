@@ -21,12 +21,12 @@ Esto es una solución de la [Order summary card challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/GarciaRojasP/order-summary-card/assets/119550417/59fc5aa0-bcad-4784-8630-d4de65c8dc57)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Ver código: [Order-summary-card](https://your-solution-url.com)
+- Ver demo: [order-summary-card](https://order-summary-card-pi-two.vercel.app/)
 
 ## Mi proceso
 
